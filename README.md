@@ -1,2 +1,2 @@
 # Blogging app
-A simple blogging application built using React, expressJS and PostgreSQL database
+A simple blogging backend REST API's built using expressJS and PostgreSQL database
